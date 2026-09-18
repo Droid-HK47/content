@@ -1,0 +1,25 @@
+{
+    "name": "Tanium mTLS Fork",
+    "description": "UNOFFICIAL FORK of the Tanium v2 integration (Tanium pack 1.0.44) that presents the client certificate of the credential (mutual TLS). Temporary, until the official integration supports client certificates.",
+    "support": "community",
+    "currentVersion": "1.0.0",
+    "author": "HK47",
+    "url": "",
+    "email": "",
+    "created": "2026-09-18T00:00:00Z",
+    "categories": [
+        "Endpoint"
+    ],
+    "tags": [],
+    "useCases": [],
+    "keywords": [
+        "Tanium",
+        "mTLS",
+        "Client certificate",
+        "Fork"
+    ],
+    "marketplaces": [
+        "xsoar"
+    ],
+    "githubUser": []
+}

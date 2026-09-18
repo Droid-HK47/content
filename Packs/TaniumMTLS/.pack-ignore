@@ -1,0 +1,12 @@
+[file:README.md]
+ignore=RM104,RM106
+
+[file:TaniumV2MTLS.yml]
+ignore=BA108,BA109
+
+[file:TaniumV2MTLS_image.png]
+ignore=IM111
+
+[known_words]
+thr
+mtls

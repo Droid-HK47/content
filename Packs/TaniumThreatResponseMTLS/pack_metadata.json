@@ -1,0 +1,26 @@
+{
+    "name": "Tanium Threat Response mTLS Fork",
+    "description": "UNOFFICIAL FORK of the Tanium Threat Response v2 integration (Tanium Threat Response pack 2.2.32) that presents the client certificate of the credential (mutual TLS). Temporary, until the official integration supports client certificates.",
+    "support": "community",
+    "currentVersion": "1.0.0",
+    "author": "HK47",
+    "url": "",
+    "email": "",
+    "created": "2026-09-18T00:00:00Z",
+    "categories": [
+        "Endpoint"
+    ],
+    "tags": [],
+    "useCases": [],
+    "keywords": [
+        "Tanium",
+        "Threat Response",
+        "mTLS",
+        "Client certificate",
+        "Fork"
+    ],
+    "marketplaces": [
+        "xsoar"
+    ],
+    "githubUser": []
+}
